@@ -28,7 +28,7 @@ A professional React Native application built with TypeScript that implements us
 
 ### Login Screen
 
-![Login Screen](./screenshots/01_login_screen.png)
+<img src="./screenshots/01_login_screen.png" alt="Login Screen" width="400" />
 
 - Email and password input fields
 - Password visibility toggle
@@ -37,7 +37,7 @@ A professional React Native application built with TypeScript that implements us
 
 ### Signup Screen
 
-![Signup Screen](./screenshots/02_signup_screen.png)
+<img src="./screenshots/02_signup_screen.png" alt="Signup Screen" width="400" />
 
 - Name, email, and password input fields
 - Password visibility toggle
@@ -46,9 +46,9 @@ A professional React Native application built with TypeScript that implements us
 
 ### Validation Screens
 
-![Validation Screen 1](./screenshots/03_validation_screen.png.png)
+<img src="./screenshots/03_validation_screen.png.png" alt="Validation Screen 1" width="400" />
 
-![Validation Screen 2](./screenshots/04_validation_screen.png)
+<img src="./screenshots/04_validation_screen.png" alt="Validation Screen 2" width="400" />
 
 - Real-time form validation
 - Error messages displayed for invalid inputs
