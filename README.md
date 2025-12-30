@@ -48,11 +48,11 @@ A professional React Native application built with TypeScript that implements us
 
 <img src="./screenshots/03_validation_screen.png.png" alt="Validation Screen 1" width="400" />
 
-<img src="./screenshots/04_validation_screen.png" alt="Validation Screen 2" width="400" />
-
 - Real-time form validation
 - Error messages displayed for invalid inputs
 - User-friendly validation feedback
+
+<img src="./screenshots/04_validation_screen.png" alt="Validation Screen 2" width="400" />
 
 ### Home Screen
 
