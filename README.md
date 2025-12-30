@@ -341,8 +341,10 @@ Potential improvements for production:
 
 ## License
 
-This project is created as a demonstration of React Native authentication implementation.
+This project is created as an assessment task for Kloudius, demonstrating React Native authentication implementation.
 
 ## Author
 
-Created as a professional portfolio project demonstrating React Native, TypeScript, and authentication implementation skills.
+**Waqar Hussain**
+
+This project was created as an assessment task for Kloudius, showcasing React Native, TypeScript, and authentication implementation skills.
