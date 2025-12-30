@@ -26,6 +26,8 @@ A professional React Native application built with TypeScript that implements us
 
 ## Screenshots
 
+> 📱 **For a comprehensive visual demonstration with detailed feature walkthrough, see [DEMONSTRATION.md](./DEMONSTRATION.md)**
+
 ### Login Screen
 
 <img src="./screenshots/01_login_screen.png" alt="Login Screen" width="400" />
